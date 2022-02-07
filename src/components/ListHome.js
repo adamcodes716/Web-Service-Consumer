@@ -54,9 +54,9 @@ export default class ListHome extends React.Component {
 
     )}  
 
-    componentDidMount()
+    componentDidMount() 
   {
-    this.getListing();
+    this.getListing(); 
   }
 
   componentDidUpdate() {
